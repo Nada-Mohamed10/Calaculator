@@ -1,0 +1,15 @@
+header {
+    height: 120px;
+    width: 100%;
+    padding: 8px 16px;
+    
+    display: grid;
+    place-items: center;
+    background-color:mediumpurple;
+}
+
+header nav h1 {
+    font-size: 40px;
+    text-transform: uppercase;
+     color: #fff;
+}
